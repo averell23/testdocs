@@ -1,3 +1,5 @@
 # testdocs
 
 Blarg
+
+[[new]]
