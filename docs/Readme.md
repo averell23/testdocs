@@ -7,6 +7,6 @@
 
 Does this produce `code`?
 
-```
-Code block
+```php
+echo "JSON"
 ```
