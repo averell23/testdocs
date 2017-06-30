@@ -1,4 +1,4 @@
 
 # Readme here
 
-[[new]]
+[test link](new.md)
