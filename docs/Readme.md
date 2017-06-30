@@ -6,3 +6,7 @@
 ## Second level header
 
 Does this produce `code`?
+
+```
+Code block
+```
