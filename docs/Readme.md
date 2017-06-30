@@ -9,7 +9,7 @@ Does this produce `code`?
 
 ```php
 echo "JSON"
-``
+```
 
 
 |hello | world |
