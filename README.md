@@ -2,4 +2,4 @@
 
 Blarg
 
-[[new]]
+[test link](new.md)
